@@ -30,3 +30,15 @@ ER diagram:
 
 ![ScholarTrack_ERDiagram_2022E122](https://github.com/user-attachments/assets/dfdeaa48-ee05-46e8-b53b-42012bd0045f)
 
+
+Relational schema:
+
+![ScholarTrack_Relationalschema](https://github.com/user-attachments/assets/c6f3484a-ef26-473c-922c-c7172acf2328)
+
+Updated ER diagram:
+
+![ScholarTrack1 drawio](https://github.com/user-attachments/assets/66a752bf-390c-4a04-89a4-301fe67653c0)
+
+Current update on the Database:
+
+http://localhost/phpmyadmin/index.php?route=/sql&pos=0&db=scholartrack&table=payment
