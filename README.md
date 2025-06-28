@@ -21,6 +21,18 @@ ScholarTrack replaces manual, spreadsheet-based workflows with a complete digita
 - Real-time notifications for updates
 - Disbursement tracking
 
+  ## 🖥️ Tech Stack
+
+### 🔧 Backend
+- **Apache**
+- **MySQL Workbench**
+- **PHP**
+
+### 🎨 Frontend
+- **HTML**
+- **CSS**
+- **PHP**
+
 ## 📂 Project Structure
 Scholarship_Project_Proposal.pdf:
 
@@ -40,5 +52,11 @@ Updated ER diagram:
 ![ScholarTrack1 drawio](https://github.com/user-attachments/assets/66a752bf-390c-4a04-89a4-301fe67653c0)
 
 Current update on the Database:
+
+- 📌 Developed initial graphical user interface (GUI) using PHP and CSS.
+- 📌 Implemented database connection and integration using MySQL Workbench.
+- 📌 Basic pages and forms for student and scholarship data entry created.
+- 📌 Project repository initialized and version control set up on GitHub.
+
 
 http://localhost/phpmyadmin/index.php?route=/sql&pos=0&db=scholartrack&table=payment
