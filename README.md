@@ -58,5 +58,5 @@ Current update on the Database:
 - 📌 Basic pages and forms for student and scholarship data entry created.
 - 📌 Project repository initialized and version control set up on GitHub.
 
+https://uoj-my.sharepoint.com/:f:/g/personal/2022e122_eng_jfn_ac_lk/EqkYvjOZQCNDn_-kCvlMrQQBdLEnlIQlrHSv8Qb8TlGgYA?e=h0VxI9
 
-http://localhost/phpmyadmin/index.php?route=/sql&pos=0&db=scholartrack&table=payment
